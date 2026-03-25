@@ -2,9 +2,9 @@
 참여해볼 해외 프로젝트 명단들 
 
 1) George B. Moody PhysioNet Challenge 2026 — 헬스케어
-https://moody-challenge.physionet.org/2026/
 - 수면다원검사(PSG)와 기본 인구통계 정보를 바탕으로, 환자의 향후 인지장애 진단 여부/시점 예측하는 챌린지.
 - 2026년 대회는 이미 오픈됨
+- https://moody-challenge.physionet.org/2026/
 
 2) SNOMED CT Entity Linking Benchmark — 헬스케어/NLP
 - 임상 노트 안의 텍스트 span을 SNOMED CT 의료 개념에 연결하는 벤치마크.
@@ -36,7 +36,7 @@ https://moody-challenge.physionet.org/2026/
 - 약 4만 명 규모의 고객 데이터가 제공되었고, 금융 서비스에서 추천시스템 문제를 다룬다는 점이 재밌음. 금융 도메인인데도 마케팅 추천과 닿아 있어서 포폴 활용도가 높음.
 - https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge
 
-8)Absa Customer Income Prediction Challenge — 금융/고객 분석
+8) Absa Customer Income Prediction Challenge — 금융/고객 분석
 - 거래 이력으로 고객 소득을 예측하는 챌린지
 - Zindi 페이지 기준으로 2022년 11월 29일 시작, 2023년 2월 26일 종료, 상금 $5,000, 다만 남아공 참가자 한정 조건이 있었음. 지금 새로 참가하는 용도보다는, 금융 고객 데이터 기반 feature engineering 연습용으로 좋음.
 - https://zindi.africa/competitions/absa-customer-income-prediction-challenge
