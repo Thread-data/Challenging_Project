@@ -3,7 +3,7 @@
 
 1) George B. Moody PhysioNet Challenge 2026 — 헬스케어
 - 수면다원검사(PSG)와 기본 인구통계 정보를 바탕으로, 환자의 향후 인지장애 진단 여부/시점 예측하는 챌린지.
-- 2026년 대회는 이미 오픈됨. 비공식 단계 : 2월 10일~4월 9일, 공식 단계:  5월 11일~8월 말 일정
+- 2026년 대회는 이미 오픈됨
 
 2) SNOMED CT Entity Linking Benchmark — 헬스케어/NLP
 - 임상 노트 안의 텍스트 span을 SNOMED CT 의료 개념에 연결하는 벤치마크.
